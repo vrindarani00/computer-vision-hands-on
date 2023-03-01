@@ -1,0 +1,7 @@
+# OS Files
+**/.DS_Store 
+
+# Ignore Dataset directories
+**/dataset/*
+!**/dataset/.gitkeep
+
