@@ -9,7 +9,10 @@
     - Initial Commit
 
 - 13 March 2023
-    - Test Commit
+    - learned about how to find the difference of two images where one of image only have some slight difference .
+-19 march 2023
+    Learned about gabor filter and how exactly it allows only certain band of frequencies .
+    implemented it with different orientation in four different pictures.
 
 
 
