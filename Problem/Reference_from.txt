@@ -1,2 +1,3 @@
 https://youtu.be/2kf8AzLZ6cU
 https://www.thepythoncode.com/article/sift-feature-extraction-using-opencv-in-python
+https://medium.com/analytics-vidhya/bag-of-visual-words-bag-of-features-9a2f7aec7866#:~:text=Bag%20Of%20Visual%20Words(also%20known%20as%20Bag%20Of%20Features,NLP%20algorithm%20Bag%20of%20Words
