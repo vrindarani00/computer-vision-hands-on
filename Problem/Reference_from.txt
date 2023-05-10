@@ -1,3 +1,12 @@
 https://youtu.be/2kf8AzLZ6cU
 https://www.thepythoncode.com/article/sift-feature-extraction-using-opencv-in-python
 https://medium.com/analytics-vidhya/bag-of-visual-words-bag-of-features-9a2f7aec7866#:~:text=Bag%20Of%20Visual%20Words(also%20known%20as%20Bag%20Of%20Features,NLP%20algorithm%20Bag%20of%20Words
+
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+https://www.baeldung.com/cs/svm-multiclass-classification#:~:text=In%20its%20most%20simple%20type,data%20points%20into%20two%20classes
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+https://www.askpython.com/python/examples/plot-k-means-clusters-python
+https://www.analyticsvidhya.com/blog/2019/10/detailed-guide-powerful-sift-technique-image-matching-python/#:~:text=SIFT%20algorithm%20helps%20locate%20the,detection%2C%20scene%20detection%2C%20etc
+https://towardsdatascience.com/sift-scale-invariant-feature-transform-c7233dc60f37
